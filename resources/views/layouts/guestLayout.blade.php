@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
