@@ -24,7 +24,7 @@ Auth::routes();
 
 Route::get('/mysql', function () {
     Artisan::call('migrate:fresh');
-    Artisan:call:('db:seed');
+    Artisan::call('db:seed');
   });
 
 Route::get('/', function () {
