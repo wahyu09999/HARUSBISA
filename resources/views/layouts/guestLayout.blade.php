@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -7,6 +6,7 @@
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 
   <title>ELECTRONIC SHOP - Guest</title>
+  
   <meta content="" name="description">
   <meta content="" name="keywords">
 
